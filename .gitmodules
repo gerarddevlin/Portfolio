@@ -7,3 +7,6 @@
 [submodule "Swiss-Army-Tape-Measure"]
 	path = Swiss-Army-Tape-Measure
 	url = https://github.com/BU-EC444/Quest2-Team15-Xu-Devlin-Malikayil
+[submodule "Smart-Thermostat-System"]
+	path = Smart-Thermostat-System
+	url = https://github.com/gerarddevlin/Smart-Thermostat-System.git
